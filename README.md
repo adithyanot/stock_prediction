@@ -6,7 +6,7 @@ Spoiler: this is a genuinely hard problem, and the results reflect that honestly
 
 ---
 
-## 1. What this project does
+## 1. Overview
 
 1. Pulls ~2 years of daily OHLCV data for RELIANCE.NS from Yahoo Finance (`yfinance`).
 2. Engineers a set of technical indicators from the raw price series.
